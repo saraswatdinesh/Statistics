@@ -2,7 +2,7 @@
 Case studies and projects as part of the statistics course
 
 
-Case 1 ->
+**Case 1 ->**
 
 The pursuit of a higher education degree in business is now international. A survey shows that more and more Asians choose the Master of Business Administration (MBA) degree route to corporate success. As a result, 
 the number of applicants for MBA courses at Asia-Pacific schools continues to increase. Across the region, thousands of Asians show an increasing willingness to temporarily shelve their careers and spend two years 
